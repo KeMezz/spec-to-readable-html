@@ -3,6 +3,7 @@ name: spec-to-readable-html
 description: Transform Markdown or text specifications into human-readable HTML documents with summaries, reordered structure, visual explanations, diagrams, charts, and traceability to the source. Use when asked to convert a spec, requirements document, API spec, product spec, design doc, or technical document into readable HTML, especially when the user wants summarization, restructuring, diagrams, graphs, images, or visual aids rather than a literal Markdown-to-HTML conversion.
 argument-hint: "[lang]"
 arguments: lang
+license: MIT
 ---
 
 # Spec to Readable HTML
